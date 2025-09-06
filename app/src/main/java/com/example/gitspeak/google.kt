@@ -508,5 +508,6 @@ class ChatViewModel : ViewModel() {
         messagesListener?.remove()
     }
 }
+//done
 
 
