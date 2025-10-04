@@ -776,6 +776,7 @@ fun ChatInputBar(
             }
         }
     }
+
 }
 
 fun formatTimestamp(timestamp: Long): String {
